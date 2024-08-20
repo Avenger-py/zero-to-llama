@@ -1,2 +1,2 @@
 # zero-to-llama
-LLaMa from scratch
+LLaMa 2 from scratch
